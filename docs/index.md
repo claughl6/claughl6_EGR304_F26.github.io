@@ -7,16 +7,16 @@ tags:
 <center>
 <font size= "6">Caden Laughlin's Datasheet</font><br>
 as part of<br>
-<font size= "8"> Project Name</font><br>
+<font size= "8"> Project SBWB</font><br>
 for<br>
 <font size= "5"> Team 208 </font><br>
 
-**Submission: month, DD, YYYY**
+**Submission: October, 28, 2026**
 </center>
 
 ## Introduction
 
-* This needs to be updated so that a reader gets an idea of the purpose of this datasheet.
+* This data sheet serves to document the process of the distance-sensing portion of Project SBWB's Self-Balancing Work Bench.
 
 ### Project Summary
 
