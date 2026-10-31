@@ -20,7 +20,20 @@ title: Component Selection Example
     | Standard 5mm through-hole package for easy breadboard setup | Susceptible to high ambient infrared light without proper shielding |
     | Documented switching times for fast object detection | |
 
-2. Everlight ITF8403 Integrated Reflective Sensor
+2. Long Distance Reflective Switch OPB732
+
+    ![](MFG_OPB732.jpg)
+
+    * $4.61 / unit
+    * [OPB732 Optical Sensor Product Link](https://www.digikey.com/en/products/detail/tt-electronics-optek-technology/OPB732/1637069)
+    
+| Pros | Cons |
+    | --- | --- |
+    | Combines an infrared emitter and phototransistor in a single pre-mounted housing | Higher unit cost ($2.85) compared to discrete pairings |
+    | Factory-aligned optics eliminate manual positioning errors on the PCB | Fixed focal distance limits flexibility in custom detection ranges |
+    | Standardized mounting holes for straightforward mechanical integration | Limited to close-range reflective detection |
+    
+3. Everlight ITF8403 Integrated Reflective Sensor
 
     ![](image_everlight.png)
 
@@ -32,19 +45,6 @@ title: Component Selection Example
     | Combines IR emitter and phototransistor in a single 4-pin module | Fixed detection range (typically under 15 mm ideal operating distance) |
     | Fixed alignment eliminates positioning errors | Surface-mount footprint requires careful soldering |
     | Integrated daylight blocking filter reduces ambient light noise | |
-
-3. Sharp GP2Y0A21YK0F Analog Distance Sensor
-
-    ![](image_sharp.png)
-
-    * $11.25 / unit
-    * [Sharp GP2Y0A21YK0F Product Link](https://www.digikey.com/en/products/detail/sharp-microelectronics/GP2Y0A21YK0F/1810822)
-
-    | Pros | Cons |
-    | --- | --- |
-    | Built-in PSD triangulation circuit provides calibrated analog output (10-80 cm) | Significantly higher cost compared to discrete components ($11.25 vs <$1.00) |
-    | Insensitive to object color and reflectivity variations | Higher current consumption (~30 mA active) |
-    | Simple 3-wire interface directly to microcontroller ADC | Bypasses custom op-amp comparator circuit design requirement |
 
 **Choice:** Option 1: Vishay TEFT4300 Photodiode & TSAL6200 IR Emitter Pair
 
