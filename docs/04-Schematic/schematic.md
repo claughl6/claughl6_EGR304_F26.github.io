@@ -4,13 +4,12 @@ title: Schematic
 
 ## Overview
 
-This schematic is design to support .... (highlight functionally, power, and controller).
+This schematic is design to support distance sensing via infrared.
 
 
-![schematic](pd.pdf){style width:"350" height:"300;"}
-**Figure ##:** Showing a example schematic.
+![schematic](image/Subsystem Schematic Design CL.pdf){style width:"350" height:"300;"}
 
 
 ## Resouces
 
-The schematic as a PDF download is available [*here*](ExampleSchematic.pdf), and the Zip folder of the project [*here*](dummyZip.zip).
+The schematic as a PDF download is available [*here*](Subsystem Schematic Design CL.pdf), and the Zip folder of the project [*here*](Subsystem Schematic Design CL.zip).
