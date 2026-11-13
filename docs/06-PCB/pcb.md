@@ -1,22 +1,22 @@
 ---
-title: Power Budget
+title: PCB Design
 ---
 
-## Overview
-Write a overview of what you did and why you did a Power Budget.
+PCB Design
+2-D View
+Top:
+![front 2d](frontpcb.png){style width:"350" height:"300;"}
 
-> Capture your power budge as a image to display. Take time to get clean breaks and a well organized layout.
+Bottom:
+![back 2d](backpcb.png){style width:"350" height:"300;"}
 
-![budget1](budgetPg1.png){style width:"350" height:"300;"}
+3-D View
+Top:
+![front 3d](front3d.png){style width:"350" height:"300;"}
 
-![budget2](budgetPg2.png){style width:"350" height:"300;"}
-
-![budget3](budgetPg3.png){style width:"350" height:"300;"}
-
-## Conclusions
-
-From the prepare Power Budget, .....
+Bottom:
+![back 3d](back3d.png){style width:"350" height:"300;"}
 
 ## Resouces
 
-The power budget as a PDF download is available [*here*](PowerBudgetExample.pdf), and a Microsoft Excel Sheet [*here*](PowerBudgetExample.xlsx).
+The PCB as a PDF download is available [*here*](png2pdf (2).pdf), the the Zip folder of the project is [*here*](Subsystem Schematic Design CL.zip), and the Gerber Files are available [*here*](GERBER.zip).

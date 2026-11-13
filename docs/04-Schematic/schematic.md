@@ -7,7 +7,7 @@ title: Schematic
 This schematic is design to support distance sensing via infrared.
 
 
-![schematic](image/Subsystem Schematic Design CL-1.png){style width:"350" height:"300;"}
+![schematic](Subsystem Schematic Design CL-1.png){style width:"350" height:"300;"}
 
 
 ## Resouces
